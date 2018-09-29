@@ -1,4 +1,4 @@
-# CavHack API Lesson
+# CavHack API Solution
 This code-a-long will be helping you create your own api to grab profiles from a database. By the end you will be able to **Create** profiles, **Read** profiles **Update** profiles and **Delete** profiles.
 
 ## Table of Contents
